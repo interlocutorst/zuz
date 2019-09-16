@@ -1,2 +1,0 @@
-# zuz
-first_app
